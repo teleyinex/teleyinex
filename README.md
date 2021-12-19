@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You can find me on main net at teleyinex.eth
+
+You can find me on 0xPolygon net at teleyine.x
+
 <!--
 **teleyinex/teleyinex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
